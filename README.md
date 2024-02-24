@@ -30,6 +30,11 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
+
+## Tech Stack
+<p><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></p>
+
+
 ## Contributing
 
 If you find any issues, have suggestions, or want to contribute to the development of this project, feel free to open an issue or submit a pull request on the GitHub repository.
